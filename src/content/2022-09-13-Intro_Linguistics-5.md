@@ -1,7 +1,8 @@
 ---
 speaker: "Hennie van der Vliet"
 date: "2022-09-19"
-lecture nr: 5
+lecture nr: [5]
+course: Introduction to Linguistics
 title: "Morphology"
 slug: "lecture-5"
 ---

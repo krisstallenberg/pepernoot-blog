@@ -1,12 +1,11 @@
 ---
 speaker: "Hennie van der Vliet and Levi"
 date: "2022-10-03"
-lecture nr: 9
+lecture nr: [9]
+course: Introduction to Linguistics
 title: "Computational linguistics"
 slug: "lecture-9"
 ---
-
-# Computational linguistics
 
 Before computational linguistics, linguistics used introspection as a method to test linguistics. This is also called 'armchair linguistics' i.e. sitting in a chair and thinking about theory.
 

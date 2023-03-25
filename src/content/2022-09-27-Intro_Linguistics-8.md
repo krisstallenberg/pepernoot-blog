@@ -1,7 +1,8 @@
 ---
 speaker: "Hennie van der Vliet"
 date: "2022-09-27"
-lecture nr: 8
+lecture nr: [8]
+course: Introduction to Linguistics
 title: "Pragmatics"
 slug: "lecture-8"
 ---

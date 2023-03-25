@@ -1,9 +1,10 @@
 ---
-speaker: Dr Anna Martonfi  
-date: 2022-09-06  
-course: Academic skills for premasters  
-lecture nr: 1  
-title: General introduction  
+speaker: "Dr. Anna Martonfi"
+date: "2022-09-06"
+course: "Academic skills for premasters"
+slug: "academic-skills"
+lecture nr: [1]
+title: "General introduction"
 ---
 
 # Goal of the academic skills course
