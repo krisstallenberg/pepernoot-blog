@@ -1,7 +1,8 @@
 ---
 speaker: "Petra Bos"
 date: "2022-09-12"
-lecture nr: 3
+lecture nr: [3]
+course: Introduction to Linguistics
 title: "Phonetics"
 slug: "lecture-3"
 ---

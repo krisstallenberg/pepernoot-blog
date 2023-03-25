@@ -1,12 +1,13 @@
 ---
 speaker: Petra Bos
 date: "2022-09-05"
-lecture nr: 1
+lecture nr: [1]
+course: Introduction to Linguistics
 title: General introduction
 slug: "lecture-1"
 ---
 
-# Course design
+## Course design
 
 - **Monday lectures:** introduction to first weekly topic
 - **Tuesday lectures:** introduction to second weekly topic

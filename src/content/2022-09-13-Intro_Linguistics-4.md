@@ -1,7 +1,8 @@
 ---
 speaker: "Petra Bos"
 date: 2022-09-13
-lecture nr: 4
+lecture nr: [4]
+course: Introduction to Linguistics
 title: "Phonology"
 slug: "lecture-4"
 ---

@@ -1,7 +1,8 @@
 ---
 speaker: "Hennie van der Vliet"
 date: "2022-09-26"
-lecture nr: 7
+lecture nr: [7]
+course: Introduction to Linguistics
 title: "Semantics"
 slug: "lecture-7"
 ---

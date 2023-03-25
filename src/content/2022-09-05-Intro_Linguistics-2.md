@@ -1,7 +1,8 @@
 ---
 speaker: Andrea ...
 date: "2022-09-05"
-lecture nr: 2
+lecture nr: [2]
+course: Introduction to Linguistics
 title: "Child Language Acquisition"
 slug: "lecture-2"
 ---

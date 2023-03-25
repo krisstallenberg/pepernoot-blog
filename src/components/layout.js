@@ -5,9 +5,6 @@ const pageStyle = {
     margin: `0 auto`, 
     maxWidth: 650, 
     padding: `0 1rem`,
-    display: `grid`,
-    gridTemplateRows: `1fr auto`,
-    minHeight: `100vh`
 }
 
 const navList = {

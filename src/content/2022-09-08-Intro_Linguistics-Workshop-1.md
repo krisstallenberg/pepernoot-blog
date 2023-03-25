@@ -1,7 +1,8 @@
 ---
 speaker: "Andrea"
 date: "2022-09-08"
-title: "Workshop 1: Introduction and Language acquisition"
+course: Introduction to Linguistics
+title: "Introduction and Language acquisition"
 slug: "workshop-1"
 ---
 
