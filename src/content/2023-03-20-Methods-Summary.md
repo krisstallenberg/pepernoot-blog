@@ -165,6 +165,34 @@ One way of determining whether the measure you use is effective is to assess its
 
 Reliability refers to the consistency or stability of a measuring instrument. In other words, the measuring instrument must measure exactly the same way every time it is used. This consistency means we should receive a similar score each time they use the measuring instrument for the same object.
 
+The observed score = true score + measurement error
+
+Reliability = true score / observed score
+
+How then can we minimize error in measurement, and enhance reliability? We can make sure that all the problems related to the four types of measures are minimized. These problems include:
+- Those in recording or scoring data (method error)
+- Those in understanding instructions, motivation, fatigue, and the testing environment (trait error)
+
+##### Four types of reliability
+
+There are four types of reliability:
+
+1. **Test/retest reliability**: A reliability coefficient determined by assessing the degree of relationship between scores on the same test administered on two different occasions. A problem related to test/retest measures is that on many tests there are practice effects, that is, some people get better at the second testing, and this practice lowers the observed correlation.
+2. **Alternate-forms reliability**: A reliability coefficient determined by assessing the degree of relationship between scores on two equivalent tests. One problem with alternate-forms reliability is making sure that the tests are truly parallel.
+3. **Split-half reliability**: A reliability coefficient determined by correlating scores on one half of a measure with scores on the other half of the measure.What is typically recommended is to correlate scores on even-numbered items with scores on odd-numbered items.
+4. **Interrater reliability**: A reliability coefficient that assesses the agreement of observations made by two or more raters or judges. 
+
+#### Validity
+
+Validity refers to whether the instrument measures what it claims to measure. 
+
+##### Four types of validity
+
+There are four types of validity:
+
+1.
+
+
 ## Chapter 4
 
 ### Module 7
