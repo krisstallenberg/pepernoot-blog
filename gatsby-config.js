@@ -6,7 +6,7 @@ module.exports = {
     title: `Pepernoot blog`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-transformer-remark",
+  plugins: ["gatsby-plugin-postcss", "gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-transformer-remark",
     {
       resolve: 'gatsby-source-filesystem',
       options: {
